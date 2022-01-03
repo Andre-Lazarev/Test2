@@ -4,6 +4,8 @@ public class Solution {
         Solution dayOfWeek = new Solution();
         dayOfWeek.checkDay(1);
         System.out.println("test");
+        System.out.println("test");
+
     }
 
     public void checkDay(int number) {
